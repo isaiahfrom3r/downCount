@@ -98,6 +98,7 @@
         };
         
         // start
+        countdown(); 
         var interval = setInterval(countdown, 1000);
     };
 
